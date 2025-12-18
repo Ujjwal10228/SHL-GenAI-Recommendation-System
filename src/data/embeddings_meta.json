@@ -1,0 +1,62 @@
+[
+  {
+    "product_id": 1,
+    "title": "Cognitive Ability Assessment",
+    "description": "Measures reasoning problem-solving and analytical thinking skills",
+    "text_blob": "Cognitive Ability Assessment Measures reasoning problem-solving and analytical thinking skills"
+  },
+  {
+    "product_id": 2,
+    "title": "Leadership Potential Assessment",
+    "description": "Evaluates leadership competencies decision-making and influence",
+    "text_blob": "Leadership Potential Assessment Evaluates leadership competencies decision-making and influence"
+  },
+  {
+    "product_id": 3,
+    "title": "Personality Questionnaire",
+    "description": "Analyzes behavioral traits work style and cultural fit",
+    "text_blob": "Personality Questionnaire Analyzes behavioral traits work style and cultural fit"
+  },
+  {
+    "product_id": 4,
+    "title": "Sales Aptitude Test",
+    "description": "Assesses persuasion negotiation and sales effectiveness",
+    "text_blob": "Sales Aptitude Test Assesses persuasion negotiation and sales effectiveness"
+  },
+  {
+    "product_id": 5,
+    "title": "Customer Support Assessment",
+    "description": "Evaluates communication empathy and service orientation",
+    "text_blob": "Customer Support Assessment Evaluates communication empathy and service orientation"
+  },
+  {
+    "product_id": 6,
+    "title": "Graduate Aptitude Test",
+    "description": "Screens fresh graduates on aptitude logical reasoning and basics",
+    "text_blob": "Graduate Aptitude Test Screens fresh graduates on aptitude logical reasoning and basics"
+  },
+  {
+    "product_id": 7,
+    "title": "Technical Skills Assessment",
+    "description": "Measures role-specific technical knowledge and applied skills",
+    "text_blob": "Technical Skills Assessment Measures role-specific technical knowledge and applied skills"
+  },
+  {
+    "product_id": 8,
+    "title": "Behavioral Interview Guide",
+    "description": "Structured behavioral assessment for hiring decisions",
+    "text_blob": "Behavioral Interview Guide Structured behavioral assessment for hiring decisions"
+  },
+  {
+    "product_id": 9,
+    "title": "Managerial Judgment Test",
+    "description": "Evaluates judgment decision quality and risk handling",
+    "text_blob": "Managerial Judgment Test Evaluates judgment decision quality and risk handling"
+  },
+  {
+    "product_id": 10,
+    "title": "Remote Work Readiness Assessment",
+    "description": "Assesses collaboration adaptability and remote efficiency",
+    "text_blob": "Remote Work Readiness Assessment Assesses collaboration adaptability and remote efficiency"
+  }
+]
